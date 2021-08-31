@@ -21,4 +21,4 @@ Periodic essential service updates may be sent to the user that installed this a
 
 ### Contact
 
-If you have any questions or requests related to your data, please email support@pluspl.us
+If you have any questions or requests related to your data, please email plusplus@subpar.biz

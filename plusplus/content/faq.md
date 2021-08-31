@@ -23,9 +23,8 @@ Yup! Type `@pluspl.us help` in your Slack channel or in a private message to the
 
 #### Is there a way to delete my team's data from you servers or alter the data?
 
-Send an email to support@pluspl.us and we'll work something out
+Send an email to plusplus@subpar.biz and we'll work something out
 
 #### Is this app open-source?
 
-It is! You can find the source for pluspl.us at GitHub [here](https://github.com/Conway/pluspl.us). 
-There is also a single-team version of the app that can be found [here](https://github.com/Conway/plusplus-standalone).
+It is! You can find the source for plusplus on GitHub [here](https://github.com/SubparLabs/pluspl.us). 
