@@ -1,6 +1,6 @@
-# PlusPl.us Server
+# Plusplus.fun Server
 
-PlusPl.us is a resurrection of the former [plusplus.chat](http://plusplus.chat). It was implemented in Python and
+Plusplus.fun is a resurrection of the former [pluspl.us](http://pluspl.us), which is itself a resurrection of the former [plusplus.chat](http://plusplus.chat). It was implemented in Python and
 is (somewhat) based on the [Javascript version](https://github.com/tdmalone/working-plusplus/) by @tdmalone, but has
 been expanded to work as a fully hosted Slack app for multiple teams like the original plusplus.chat.
 
